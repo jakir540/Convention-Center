@@ -7,3 +7,15 @@
     justify-content: center;
 
 }
+
+footer{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 50px;
+
+}
